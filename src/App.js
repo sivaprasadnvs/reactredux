@@ -7,6 +7,7 @@ import itemContainer from './components/itemContainer';
 import './App.css';
 import store from './redux/store'
 console.log("commit")
+console.log("branch")
 function App() {
   return (
     <Provider store={store}>
