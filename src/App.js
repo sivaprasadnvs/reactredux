@@ -6,7 +6,7 @@ import UserContainer from './UserContainer'
 import itemContainer from './components/itemContainer';
 import './App.css';
 import store from './redux/store'
-
+console.log("commit")
 function App() {
   return (
     <Provider store={store}>
