@@ -3,7 +3,6 @@ import { Provider } from 'react-redux'
 import CakeContainer from './components/CakeContainer';
 import NewCakeContainer from './components/NewCakecontainer'
 import UserContainer from './UserContainer'
-import itemContainer from './components/itemContainer';
 import './App.css';
 import store from './redux/store'
 console.log("commit")
